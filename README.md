@@ -1,4 +1,4 @@
-Project Overview This lab demonstrates my ability to manage the full lifecycle of IT support tickets using Jira Service Management. I successfully resolved a variety of common Tier 1 issues, including hardware troubleshooting, network connectivity, account access/password resets, and peripheral configuration.
+**Project Overview** This lab demonstrates my ability to manage the full lifecycle of IT support tickets using Jira Service Management. I successfully resolved a variety of common Tier 1 issues, including hardware troubleshooting, network connectivity, account access/password resets, and peripheral configuration.
 # Tier-1-Ticketing-Lab
 <img width="1883" height="916" alt="jira-full-queue png" src="https://github.com/user-attachments/assets/d2a98489-4656-4bb4-9cec-8817cd7c6747" />
 <img width="1908" height="946" alt="software-in-progress png" src="https://github.com/user-attachments/assets/bde178c4-925b-49e1-8a54-c57bf36094b7" />
